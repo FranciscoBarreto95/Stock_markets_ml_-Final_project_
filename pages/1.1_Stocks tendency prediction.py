@@ -1,9 +1,5 @@
 #In order for consistency we will use the directly retrieved from Yahoo 
- from gettext import install
-
-
-pip install matplotlib
-pip install seaborn
+from gettext import install
 #libraries needed for seeing data and surface data exploration
 from modulefinder import IMPORT_NAME
 import pandas as pd 
