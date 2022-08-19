@@ -4,7 +4,8 @@
 from modulefinder import IMPORT_NAME
 import pandas as pd 
 import numpy as np 
-import matplotlib.pyplot as plt
+import matplotlib
+#import matplotlib.pyplot as plt
 import seaborn as sns 
 import yfinance as yf
 from datetime import datetime
