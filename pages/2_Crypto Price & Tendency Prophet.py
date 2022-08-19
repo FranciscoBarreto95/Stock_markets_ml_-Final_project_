@@ -1,6 +1,6 @@
 #In order for consistency we will use the directly retrieved from Yahoo 
-!pip install matplotlib
-!pip install seaborn
+pip install matplotlib
+pip install seaborn
 #libraries needed for seeing data and surface data exploration
 import pandas as pd 
 import numpy as np 

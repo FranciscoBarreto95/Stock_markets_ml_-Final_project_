@@ -2,8 +2,8 @@
  from gettext import install
 
 
-!pip install matplotlib
-!pip install seaborn
+pip install matplotlib
+pip install seaborn
 #libraries needed for seeing data and surface data exploration
 from modulefinder import IMPORT_NAME
 import pandas as pd 
