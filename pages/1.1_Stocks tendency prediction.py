@@ -3,10 +3,11 @@ from gettext import install
 #libraries needed for seeing data and surface data exploration
 from modulefinder import IMPORT_NAME
 import pandas as pd 
-import numpy as np 
+import numpy as np
+%matplotlib
 import matplotlib
 #import matplotlib.pyplot as plt
-import seaborn as sns 
+#import seaborn as sns 
 import yfinance as yf
 from datetime import datetime
 import plotly.express as px
